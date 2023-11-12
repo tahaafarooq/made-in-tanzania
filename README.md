@@ -95,10 +95,11 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
 - [Tourism WebApp Django Bootstrap4](https://github.com/luqmantuke/TuksimAdventure) - ✈️ This is a tour/travel Webapp made with Python Django and Bootstrap4. **By [@Luqman Tuke](https://github.com/luqmantuke)**
 
 ## <a name="U"> </a>U
-- [UrchinShell Web Shell](https://github.com/urchinsec/urchinshell) - 🖥️ A PHP multi-purpose web-shell that simplifies running shell commands on webserver. **By [@tahaafarooq](https://github.com/urchinsec)
+- [UrchinShell Web Shell](https://github.com/urchinsec/urchinshell) - 🖥️ A PHP multi-purpose web-shell that simplifies running shell commands on webserver. **By [@tahaafarooq](https://github.com/urchinsec)**
 
 ## <a name="W"> </a>W
 - [Web3 Storage IPFS Python API](https://github.com/tahaafarooq/web3storagepy) - 🌍 This is IPFS web3.storage unofficial library written in python. **By [@tahaafarooq](https://github.com/tahaafarooq)**
+- [Werkzeug Hash Cracker](https://github.com/tahaafarooq/werkzeug-hash-cracker) - 🖥️ A minimal script to bruteforce and perform dictionary attacks upon werkzeug security helpers generated hash either scrypt or pbkdf2 **By [@tahaafarooq](https://github.com/tahaaafarooq)**
 
 <br>
 <br>
